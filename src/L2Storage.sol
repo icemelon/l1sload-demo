@@ -32,3 +32,4 @@ import {IL1Blocks} from "./IL1Blocks.sol";
         emit RetrievedNumbers(num1, num2, num3);
         return (num1, num2, num3);
     }
+ }
